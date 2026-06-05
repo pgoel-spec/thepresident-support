@@ -1,6 +1,6 @@
 # Privacy Policy for "The President"
 
-**Last Updated:** December 13, 2025
+**Last Updated:** June 5, 2026
 
 This Privacy Policy explains how **The President** ("we," "our," or "us") collects, uses, and discloses information about you when you use our mobile application (the "App"). By using the App, you consent to the processing of your information as described in this policy.
 
@@ -13,15 +13,17 @@ We collect limited information necessary to provide the game experience, save yo
 * **Social Login Data:** If you choose to log in via a third party (Apple, Google, or Facebook), we collect your public profile name and email address associated with that account to create your in-game profile.
 
 ### B. Information Automatically Collected
-* **Game Progress:** We store data related to your gameplay, including your **High Score**, **Level**, and **Points**.
+* **Game Progress:** We store data related to your gameplay, including your **Highest Term**, **Level**, **Political Capital**, and **Points**.
 * **Device Information:** We may collect standard device information (model, OS version) required for the App to function correctly.
 
 ## 2. How We Use Your Information
 
 We use the information we collect for the following purposes:
 * **Authentication:** To verify your identity and allow you to log in to your unique account.
-* **Cloud Save:** To persist your game stats so you can resume play across sessions.
+* **Cloud Save:** To persist your game stats, themes, and capital so you can resume play across sessions.
 * **Leaderboards:** To display your Username and High Score on the public leaderboard visible to other players.
+* **Purchases:** To verify and restore In-App Purchases (handled securely via Apple).
+* **Analytics & Advertising:** To analyze app traffic and, if you opt-in via the App Tracking Transparency prompt, to deliver personalized advertisements using third-party SDKs (such as Facebook).
 * **Account Management:** To manage your account and provide customer support.
 
 ## 3. Third-Party Services
@@ -30,22 +32,25 @@ We use trusted third-party services to handle data storage and authentication. T
 
 * **Google Firebase (Firestore & Auth):** Used for secure database storage and user authentication.
     * [Firebase Privacy Policy](https://firebase.google.com/support/privacy)
-* **Facebook Services:** Used for authentication (Facebook Login).
+* **Facebook Services:** Used for authentication (Facebook Login) and advertising/analytics.
     * [Meta Privacy Policy](https://www.facebook.com/privacy/policy/)
 * **Google Sign-In:** Used for authentication.
     * [Google Privacy Policy](https://policies.google.com/privacy)
 * **Apple Sign-In:** Used for authentication.
     * [Apple Privacy Policy](https://www.apple.com/legal/privacy/en-ww/)
 
-## 4. Data Retention
+## 4. In-App Purchases
+We do not collect or store your payment details. All In-App Purchases are processed securely through Apple's App Store.
+
+## 5. Data Retention
 
 We retain your personal information and game data for as long as your account is active. If you delete your account, your data is removed from our active databases immediately.
 
-## 5. Children’s Privacy
+## 6. Children’s Privacy
 
 The App is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If we discover that a child under 13 has provided us with personal information, we will delete such information from our servers immediately.
 
-## 6. Your Rights and Data Deletion
+## 7. Your Rights and Data Deletion
 
 You have the right to access, update, or delete your personal information.
 
@@ -64,11 +69,14 @@ If you cannot access the app, you may request data deletion by emailing us at:
 * **Subject:** "Request to Delete My Data"
 * Please include the email address associated with your account. We will process your request within 30 days.
 
-## 7. Changes to This Policy
+### Tracking Preferences
+You can manage your tracking preferences for targeted advertising at any time via your iOS Settings (Settings > Privacy & Security > Tracking).
+
+## 8. Changes to This Policy
 
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
 
-## 8. Contact Us
+## 9. Contact Us
 
 If you have any questions about this Privacy Policy, please contact us:
 * **By email:** prince.goel.in@gmail.com
